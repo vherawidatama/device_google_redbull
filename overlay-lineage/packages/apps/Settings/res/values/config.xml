@@ -21,4 +21,8 @@
     <!-- Whether to show the Preference for Adaptive connectivity -->
     <bool name="config_show_adaptive_connectivity">true</bool>
 
+    <string name="maintainer_name">VHP (vherawidatama)</string>
+    <string name="maintainer_telegram">https://t.me/vherawidatama</string>
+
+
 </resources>
